@@ -13,6 +13,11 @@ contract Token {
         _balance = balance[_owner];
     }
 
+    function transfer(address to, uint _amount) public {
+        balance[msg.sender] -= _amount;
+        balance[to] += _amount;
+    }
+
     constructor() {
         totalSupply = 1000*10**18;
         balance[msg.sender] = totalSupply;
