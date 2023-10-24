@@ -13,4 +13,8 @@ contract Token {
         _balance = balance[_owner];
     }
 
+    constructor() {
+        totalSupply = 1000*10**18;
+        balance[msg.sender] = totalSupply;
+    }
 }
