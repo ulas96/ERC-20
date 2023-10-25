@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baff41c1-7c3e-4787-a084-8c1e5556d525" name="Changes" comment="">
+    <list default="true" id="baff41c1-7c3e-4787-a084-8c1e5556d525" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/contracts/excelcium-token.sol" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contracts/erc-20.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/stake-erc-20.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contracts/token-template.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/token-template.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Lock.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/Lock.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +18,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ulas96&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6c055f2d-6d83-49eb-a89e-8be57a2a572e" />
+        <option name="url" value="https://github.com/ulas96/ERC-20.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/scripts/deploy.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,6 +58,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -50,11 +72,38 @@
       <updated>1698113168245</updated>
       <workItem from="1698113169923" duration="606000" />
       <workItem from="1698151680820" duration="464000" />
-      <workItem from="1698152187617" duration="31000" />
+      <workItem from="1698152187617" duration="1747000" />
+      <workItem from="1698153945005" duration="460000" />
+      <workItem from="1698154419211" duration="3849000" />
+      <workItem from="1698174821510" duration="2034000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1698153008782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698153008782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
